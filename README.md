@@ -25,6 +25,9 @@ pip install recurrent
 * Please schedule the meeting for every other tuesday at noon
 * Set an alarm for next tuesday at 11pm
 
+### *ly Note
+* Currently does not support single worded recurrence of "weekly" or "monthly", use "every week" or "every month" instead.
+
 ## Usage
 ```python
 >>> import datetime
